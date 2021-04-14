@@ -4,7 +4,9 @@ Dataset
 
 Dataset includes 
 1,338 examples of beneficiaries
+
 Features indicate the characteristics of the beneficiaries 
+
 age: 
 sex: 
 bmi: 
@@ -17,8 +19,11 @@ charges :
 Highlights of the Exploratory Data Analysis
 
 More number of Smokers Vs Non smokers
+
 High charges for smokers in comparison to non-smokers.
+
 As age goes up charges for health insurance also trends up 
+
 Smokers with high Obese have higher charges
 
 Modelling
